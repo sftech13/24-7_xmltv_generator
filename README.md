@@ -32,7 +32,7 @@ This repository contains a Python script for generating XMLTV format Electronic 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/xmltv-epg-generator.git
+   git clone https://github.com/sftech13/xmltv-epg-generator.git
    cd xmltv-epg-generator
    ```
 2. Install dependencies:
